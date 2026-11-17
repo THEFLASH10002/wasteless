@@ -1,0 +1,24 @@
+Work done by,ID,Requirement,CSV/JSON data upload with schema validation,Central operations database,Menu & recipe catalog editor,Time-series ML demand forecasting model,Weather API & academic calendar integration,Model retraining & variance logging,Manager forecast override with audit log,Prep & purchasing recommendation engine,Low-inventory alert & notification service,End-of-service waste logging,Manager analytics dashboard,Financial ROI & CO2e report export,Login with role-based access control,Student dining portal,Student check-in & rating module
+AT,1.1,Baseline meal demand forecast from historical sales,X,X,,X,,,,,,,,,,,
+AT,1.2,Weather-adjusted forecasts,,,,X,X,,,,,,,,,,
+AT,1.3,"Academic calendar, holidays & campus events in forecasts",,,,X,X,,,,,,,,,,
+AT,1.4,Continuous retraining from actual consumption,,X,,,,X,,,,X,,,,,
+AT,1.5,Manual forecast overrides,,,,,,,X,X,,,,,,,
+SK,2.1,Dish-level daily prep guidance,,,,,,,,X,,,,,,,
+SK,2.2,Perishable purchasing recommendations,,X,,,,,,X,,,,,,,
+SK,2.3,Low inventory & shortage alerts,,X,,,,,,,X,,,,,,
+SK,2.4,Dish popularity & portion tuning,,,,,,,,,,,X,,,,X
+SO,3.1,End-of-service waste logging,,X,,,,,,,,X,,,,,
+SO,3.2,Predicted vs. actual vs. waste dashboard,,,,,,,,,,,X,,,,
+SO,3.3,Day/week/month/semester trends,,,,,,,,,,,X,,,,
+SO,3.4,Financial savings & ROI,,,,,,,,,,,,X,,,
+SO,3.5,Sustainability & CO2e reporting,,,,,,,,,,,,X,,,
+NI,4.1,Bulk historical data upload,X,X,,,,,,,,,,,,,
+NI,4.2,Menu & recipe catalog management,,X,X,,,,,X,,,,,,,
+NI,4.3,Role-based access control,,,,,,,,,,,,,X,,
+KG,5.1,Live availability & dietary filters,,X,,,,,,,,,,,,X,
+KG,5.2,Dining hall crowd forecasts,,,,X,,,,,,,,,,X,
+KG,5.3,Low availability notifications,,,,,,,,,X,,,,,X,
+KG,5.4,Student meal intent check-ins,,,,X,,,,,,,,,,,X
+KG,5.5,Meal ratings & feedback,,,,,,,,,,,X,,,,X
+KG,5.6,Campus food waste metrics,,,,,,,,,,,,X,,X,
